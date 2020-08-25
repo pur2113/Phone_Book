@@ -1,3 +1,3 @@
-# phone_book
+# Phone-Book
 
 In this project we have implemented an autocomplete featured phonebook directory system using tries as a data structure. The system basically allows the user to enter his contact details i.e. name,phone numbers and description .The data is then stored in a file .Using this system the user can search for a contact ,list all the contacts ,delete a contact. One special property of the system is that when a user searches for a contact then suggestions with prefix as the string entered are shown after user enters each character. Along with displaying suggestions prefix wise,there is also a functionality to display suggestions suffix wise. 
